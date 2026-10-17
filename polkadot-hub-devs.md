@@ -29,7 +29,7 @@ There are multiple development environments already available for Polkadot smart
 ### 🦀 Rust Contracts
 
 Besides **Solidity**, you can also write smart contracts in Rust using **ink!** &mdash; the go-to language for Rust-based smart contract development on Polkadot. Check out the [**ink! Docs**](https://use.ink/6.x) to get started.
- - Check out the [ink! Hackathon Guide](https://use.ink/docs/v6/sub0-hackathon-2025/).
+ - Check out the [ink! Hackathon Guide](https://use.ink/docs/v6/hackathon-fast-track).
 
 ### 👨‍💻 Contract Interaction Libraries
 
