@@ -4,7 +4,7 @@ Polkadot enables **smart contract development** with **pallet-revive**. This all
 
 Please provide **feedback** on your experience deploying smart contracts on Polkadot using this [feedback form](https://forms.gle/BhL5ZCaFMUvSipos8).
 
-*Refer to the [**known issues**](https://docs.google.com/document/d/1j5hnQZRqlbVagW28dC24OVAF8uRih5jWubBxy5PlMYc/edit?usp=sharing) document if you're running into issues deploying contracts or using any of the tools below. If you have a new bug or problem, please raise an issue in the [Contracts Bug tracker](https://github.com/paritytech/contract-issues) on Github.*
+*If you're running into issues deploying contracts or using any of the tools below, check the [**smart contracts documentation**](https://docs.polkadot.com/develop/smart-contracts/) for guidance. Known bugs and problems are tracked in the [**Contracts Bug tracker**](https://github.com/paritytech/contract-issues), where you can also report a new issue.*
 
 ### 🚀 Quick Start with DevContainers
 
